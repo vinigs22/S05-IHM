@@ -1,2 +1,2 @@
 # S05-IHM
-Aula de Interaçao Homem Máquina
+Aula de Interface Homem Máquina
